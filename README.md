@@ -1,4 +1,4 @@
-BeyondChats – Full Stack Content Processing System
+Full Stack Content Processing System
 > Overview
 
 This project is a full-stack content processing system built as part of the BeyondChats Full Stack Web Developer Intern assignment.
