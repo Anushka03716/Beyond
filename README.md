@@ -163,11 +163,9 @@ MySQL managed via phpMyAdmin / XAMPP
 
 The repository includes screenshots of:
 
-Postman API responses
-
-Node.js pipeline execution logs
-
-React frontend UI displaying articles
+[Postman API Response](screenshots/postman-api.png)
+[Node Pipeline Logs](screenshots/node-pipeline.png)
+[React Frontend](screenshots/react-frontend.png)
 
 > Assignment Status
 
